@@ -12,7 +12,7 @@ library(rgl)
 # define the path
 hood_dir <- "S:/EAGLE_Academic/LiDAR/Site_9/neighbourhood"
 tree_dir  <- "S:/EAGLE_Academic/LiDAR/Site_9/trees"
-output_dir <- "S:/EAGLE_Academic/LiDAR/Results"
+output_dir <- "S:/EAGLE_Academic/LiDAR_finalproject/Results"
 
 # List .las files in the neighborhood and tree folders
 hood_files <- list.files(hood_dir,

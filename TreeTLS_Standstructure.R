@@ -7,7 +7,7 @@ library(patchwork)
 # define folders
 hood_dir <- "S:/EAGLE_Academic/LiDAR/Site_9/neighbourhood"
 cut_dir  <- "S:/EAGLE_Academic/LiDAR/Site_9/trees"
-output_dir <- "S:/EAGLE_Academic/LiDAR/Results"
+output_dir <- "S:/EAGLE_Academic/LiDAR_finalproject/Results"
 
 # create the output folder
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
