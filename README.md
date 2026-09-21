@@ -1,5 +1,5 @@
 # Beech Stand Structure and Competition from Mobile Laser Scanning (MLS)
-
+Author: Anita Dandekhya
 ## 1. Introduction
 
 This repository contains the R-based workflow on **beech forest stand structure and tree competition using Mobile Laser Scanning (MLS) point-cloud data**.
